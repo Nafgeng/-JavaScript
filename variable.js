@@ -1,15 +1,15 @@
 //metode 1
-let lastname = "ahmad"
+let fullname = "ahmad"
 
-lastname = "ahmad"
+fullname = "ahmad"
 
-console.log(lastname)
+console.log(fullname)
 
 //atau
 
 //metode 2
-lastname = "mad"
-console.log(lastname)
+fullname = "mad"
+console.log(fullname)
 
 const uangjajan = 200
 console.log(uangjajan)

@@ -5,11 +5,11 @@ let x = 10
 let a = 10
 let b = 20
 
-console.log(a + b)//tambah
-console.log(a - b)//kurang
-console.log(a * b)//kali
-console.log(a / b)//bagi
-console.log(a % b)//sisa
+console.log(a + b)//tambahh
+console.log(a - b)//kurangg
+console.log(a * b)//kalii
+console.log(a / b)//bagii
+console.log(a % b)//sisaa
 
 //BigInt
 let postfix = 6
